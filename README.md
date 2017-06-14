@@ -1,6 +1,6 @@
 [![Stories in Ready](https://badge.waffle.io/sdco-partners/southeast-land-management.png?label=ready&title=Ready)](https://waffle.io/sdco-partners/southeast-land-management)
 # Southeast Land Mgmt.
-Southeast Land Management. Copyright 2017 SDCO Partners
+[http://southeastlandmanagement.com](http://southeastlandmanagement.com)
 ###### Developed by Asif Ahmed
 
 1. Site Details
